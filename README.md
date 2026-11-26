@@ -640,3 +640,31 @@ tags: [the-forge, micro-hydro, waterwheel, wet-scrubber, ventilation, terracotta
 ​Every drop of creek water, rainwater, and process water passes through a multi-stage physical and adsorptive barrier before touching human skin, instruments, or crops.
 ​Terracotta & Charcoal Filtration: Unglazed porous terracotta (fired clay) and high-surface-area activated charcoal (charred hardwood/coconut shell/biochar) work together: terracotta provides structural containment, slow capillary flow, and mechanical/micro-pore straining, while activated charcoal adsorbs organic compounds, odors, and impurities. (For potable drinking water in real-world practice, settled and charcoal-filtered water is additionally paired with boiling, ceramic/membrane microfiltration, or UV/chemical disinfection so pathogens are fully eliminated.)
 ​Closed-Loop Ash, Lye & Soap Craft: Hardwood ash collected from clean hearths yields potash/lye for traditional soapmaking and soil/pH conditioning, while pine pitch, botanical oils, and workshop offcuts feed pocket fire starters and M.A.D. W.E.A.R.™ repair stock—turning every byproduct of heat and water into usable utility.
+
+---
+title: "Appendix I Expansion: Integrated Forge Utilities (Hydro-Wheel Power, Water-Scrubbed Ventilation & Terracotta-Charcoal Filtration)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-26"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [appendix-1, expansion, the-forge, micro-hydro, waterwheel, wet-scrubber, ventilation, terracotta, activated-charcoal, water-filtration, closed-loop]
+---
+Appendix I Expansion: Integrated Forge Utilities (...)
+​For insertion into Section 5: Appendix I — The Mechanics of Passive Thermoregulation & Modularity of the Master Repository Manuscript
+​In The Forge, energy conversion, air scrubbing, water purification, and material craft operate as a single continuous physical loop rather than isolated utilities. Creek flow drives rotation, water captures airborne combustion solids before exhaust leaves the building, and porous clay plus charcoal clean process water so nothing is wasted or dumped raw into the watershed.4. Continuous Creek Flow & Micro-Hydro Wheel Architecture
+​Positioned along a perennial mountain stream and natural easement, The Forge harvests continuous kinetic and gravitational flow through a hybrid mechanical-and-modern-materials wheel system.
+​Wheel & Pinwheel Conversion: A controlled headrace flume directs a measured fraction of creek flow onto a breastshot/overshot wheel or high-torque reaction pinwheel, converting water weight and velocity into steady rotational torque without blocking fish passage or dewatering the channel.
+​Hybrid Material Construction: Reclaimed timber spokes and heavy-duty stainless or marine-grade 316 hardware join with high-density polyethylene (HDPE) or fiberglass-reinforced paddles that resist rot, swelling, and freeze-thaw delamination.
+​Mechanical & Telemetry Integration: Rotational shaft output drives low-speed mechanical shop tasks and low-voltage DC charging banks, while Raspberry Pod (RP-MSR™) flow and load sensors feed real-time status into Fleet_OS™ and Cenote Core OS™.Subsystem Primary Input Core Mechanism Material & Hybrid Spec Output & Loop Destination
+Micro-Hydro Wheel Diverted creek flume flow Weight + velocity torque on wheel/pinwheel Reclaimed timber frame + HDPE/FRP paddles + 316 steel Shaft torque & DC charge -> shop/utility loads -> tailrace return
+Wet Smoke Scrubber Hearth/forge smoke & warm exhaust Capture hood + water spray/baffle impaction + mist trap Corrosion-resistant ducting + water curtain + settling sump Cooled, scrubbed air -> clean exhaust; soot-laden wash -> filter train
+Terracotta-Charcoal Train Scrubber wash, creek draw & rainwater Gravity settling + porous clay + activated carbon adsorption Fired unglazed terracotta + activated charcoal/biochar + gravel/sand Filtered water -> irrigation/craft/potable polishing; sludge -> ash/compost5. Water-Utilized Ventilation & Fume/Smoke Scrubbing
+​Combustion at the central fire pit, hearth, and pitch-rendering stations produces soot, ash particulates, and soluble combustion gases. The Forge captures these emissions at the hood and passes them through a water-scrubbing stage before air exits the hall.
+​Hood Capture & Wet Impingement: Overhead hoods draw rising smoke and hot gases through a short duct run into a wet scrubber chamber where fine water mist, spray nozzles, or packed baffles trap airborne particulates and cool exhaust temperatures.
+​Mist Elimination & Wash Recovery: A droplet/mist separator strips entrained water droplets from the outgoing air stream so clean air exhausts upward through the loft without heavy smoke plumes, while dirty wash water drains to a sediment sump.
+​6. Terracotta & Charcoal Water Filtration + Closed-Loop Craft Integration
+​Water leaving the wet scrubber carries suspended soot, ash fines, and trace organics; creek and rainwater inputs require staged physical and adsorptive conditioning before use across the sanctuary.
+​Settling, Terracotta & Activated Charcoal: Wash water first settles heavy solids in a catch basin before passing through porous terracotta media/vessels and activated charcoal (high-surface-area charred wood, shell, or biochar), which adsorbs organic compounds, odors, and dissolved impurities.
+​Potable vs. Ecological Safeguards: Terracotta and activated charcoal excel at particulate reduction and organic/odor adsorption, but do not reliably eliminate all waterborne pathogens on their own—so any water intended for drinking still receives boiling, ceramic/membrane microfiltration, or UV/chemical treatment, while filtered greywater and buried terracotta pot seeping lines nourish crops and heat-buffered beds.
+​Full-Circle Byproduct Reuse: Clean hardwood ash from dry hearths leaches into lye for traditional soapmaking, pine pitch and natural fibers form pocket fire starters, and M.A.D. W.E.A.R.™ and M.A.D. Grips+™ hardware keep workers warm and dexterous around damp, cold water lines without batteries.
+​The video below shows how small-scale waterwheels turn flowing water into practical power.
