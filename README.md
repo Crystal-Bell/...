@@ -1140,3 +1140,357 @@ Down along the quiet stretch of Candy Street, CandySt-Neonatal-01 (v1.0) ran in 
 Back at the Light Bloom™ table, the pace slowed right down as naptime settled in. Soft light drifted over the surface where the dragons curled into slow, steady breathing and a small dung beetle rolled a tiny scrap across the edge—simple, quiet play showing that rest and low-friction care do the real heavy lifting (...).
 Cross-Reference & Repository Tags:
 #MADWorks #MotivationAndDirectionWorks #ArchitectsContingency #Chapter9 #CandyStreetCare #RetireASMLCH01 #CandyStNeonatal01 #LightBloom #CrystalBell
+---
+title: "M.A.D. Works™: Reusable YAML Frontmatter Template for YouTube Short & Nap-Episode Script Files (Crystal-Bell Repository)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [yaml-template, youtube-short-frontmatter, nap-episode-frontmatter, repository-standard, real-time-episode, body-doubling, crystal-bell]
+---
+
+Reusable YAML Frontmatter Template for YouTube Short & Nap-Episode Scripts (...)
+Use this template at the top of individual YouTube short, body-double workshop, and window nap-episode script files in Crystal-Bell repositories so pacing modes, real-time clocks, characters, and music/system cues stay cleanly indexed (...).
+Blank Reusable Script Frontmatter Template
+---
+title: "M.A.D. Works™ — [Real-Time Short / Body-Double Session / Window Nap Episode]: [Episode Title]"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "YYYY-MM-DD"
+track: "Cartoon / Workshop Track (Kid-Scale Continuity)"
+format_mode: "[Real-Time Short | Ambient Body-Double | Window Nap Episode]"
+real_time_clock: "[HH:MM–HH:MM]"
+runtime_minutes: [XX]
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+characters_and_bots:
+  - "[Primary cast, dragons, crew, or bots in scene]"
+system_and_audio_cues:
+  - "[Tuner radio / music repository track / tool station / Light Bloom™ cue]"
+cross_references:
+  - "[Related script, workshop scene, or saga chapter path]"
+  - "[Related Substack note or spec]"
+tags: [mad-works, youtube-script, real-time-episode, crystal-bell]
+---
+
+Filled Example (Real-Time 12:00 Short)
+---
+title: "M.A.D. Works™ — Real-Time Short: 08:00 to 08:12 Gear Up, Yard Run & Break"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+track: "Cartoon / Workshop Track (Kid-Scale Continuity)"
+format_mode: "Real-Time Short"
+real_time_clock: "08:00–08:12"
+runtime_minutes: 12
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+characters_and_bots:
+  - "Young Luma"
+  - "Sparkbit, Murmur Wing, Ember Dragon"
+  - "Joey, Dwayne, CJ, Curly/Mo/Larry, Annie Kitchen, Clyde, Rocky, Rufus, Johnny-5 style bot"
+system_and_audio_cues:
+  - "It's a Forge Day groove + custom music repository tracks"
+  - "M.A.D. W.E.A.R.™ suit-up, Light Bloom™ / R.B.U. table, yard trolley & hose-drip bird bath"
+cross_references:
+  - "scripts/25-min-window-nap-episode.md"
+  - "chapters/ch-09-candy-street-and-forge-play.md"
+tags: [mad-works, youtube-script, 12-minute-short, real-time-episode, young-luma, sparkbit, murmur-wing, ember-dragon, crystal-bell]
+---
+
+Field Guide for Fast Filling
+ * format_mode & runtime_minutes: Clearly separate punchy action/build shorts (8–16 min), slow-paced ambient body-doubling sessions, and 25-minute calm window nap episodes so viewers and playlists stay organized (...).
+ * characters_and_bots: Keep kid-scale cartoon characters and dragons listed here while reserving adult lineage characters (Ezra, Rowan, Atlas) for The Architect's Contingency™ book files (...).
+---
+title: "The Architect's Contingency™: Complete 12-Chapter YAML Frontmatter Set (Chapters 1–12)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [yaml-frontmatter-set, chapters-1-to-12, architects-contingency, 4-book-box-set, repository-standard, crystal-bell]
+---
+
+Complete 12-Chapter YAML Frontmatter Blocks (...)
+Here are ready-to-paste YAML frontmatter blocks for Chapters 1–12 of The Architect's Contingency™ across Books I–IV, built from your chapter template (...).
+Book I: Friction & The Gate (Chapters 1–3)
+---
+title: "The Architect's Contingency™ — Book I, Chapter 01: Friction on the Divide"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book I: Friction & The Gate"
+act: "Act I"
+chapter_number: 1
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Jade Avenue Forge loop (micro-hydro wheel, wet scrubber, copper-terracotta-charcoal water stage)"
+  - "Clyde's free-roaming bay"
+core_lesson: "Read friction and protect warmth, air, and water before pushing harder."
+cross_references:
+  - "chapters/ch-02-the-seven-day-gate.md"
+  - "chapters/ch-03-the-ellipsis-ledger.md"
+tags: [architects-contingency, book-1, chapter-01, friction-on-the-divide, jade-avenue-forge, clyde, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book I, Chapter 02: The Seven-Day Gate"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book I: Friction & The Gate"
+act: "Act II"
+chapter_number: 2
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "7–10 Day Prototype Gate"
+  - "MAT-RES-00 cold-snap durability test vs. verified parts"
+core_lesson: "Verify physical performance before adopting copies or shortcuts."
+cross_references:
+  - "chapters/ch-01-friction-on-the-divide.md"
+  - "chapters/ch-03-the-ellipsis-ledger.md"
+tags: [architects-contingency, book-1, chapter-02, seven-day-gate, cold-snap-test, mat-res-00, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book I, Chapter 03: The Ellipsis Ledger"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book I: Friction & The Gate"
+act: "Act III"
+chapter_number: 3
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Toys Building Toys snap-fit scaling to MAT-TPU-02 strips"
+  - "Sleeve/glove task lights & (...) ledger stamp"
+core_lesson: "Scale clean small-scale geometry instead of reinventing every size."
+cross_references:
+  - "chapters/ch-02-the-seven-day-gate.md"
+  - "chapters/ch-04-the-north-pass-bundle.md"
+tags: [architects-contingency, book-1, chapter-03, ellipsis-ledger, toys-building-toys, mat-tpu-02, crystal-bell]
+---
+
+Book II: Watershed & Roots (Chapters 4–6)
+---
+title: "The Architect's Contingency™ — Book II, Chapter 04: The North Pass Bundle"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book II: Watershed & Roots"
+act: "Act I"
+chapter_number: 4
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Offline git bundle & Raspberry Pi node sync across ridge terrain"
+  - "Path-lighting hem glow"
+core_lesson: "Keep shared records resilient without depending on live outer links."
+cross_references:
+  - "chapters/ch-03-the-ellipsis-ledger.md"
+  - "chapters/ch-05-poison-in-the-creek-and-reef-restoration.md"
+tags: [architects-contingency, book-2, chapter-04, north-pass-bundle, offline-git-sync, raspberry-pi-pods, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book II, Chapter 05: Poison in the Creek & Reef Restoration"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book II: Watershed & Roots"
+act: "Act II"
+chapter_number: 5
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "RP-MSR-005 (v1.3) freshwater/marine remediation"
+  - "Targeted debris removal & artificial reef placement"
+core_lesson: "Remediate real damage while leaving healthy habitats undisturbed."
+cross_references:
+  - "chapters/ch-04-the-north-pass-bundle.md"
+  - "chapters/ch-06-pioneer-roots-and-canopy-capillaries.md"
+tags: [architects-contingency, book-2, chapter-05, creek-and-reef, rp-msr-005, watershed-remediation, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book II, Chapter 06: Pioneer Roots & Canopy Capillaries"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book II: Watershed & Roots"
+act: "Act III"
+chapter_number: 6
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Living moringa/herb wall & copper pyramids"
+  - "HydroCap-01 (v1.0) hydroball capillary aqueduct & Drone-TH-02 (v1.2)"
+core_lesson: "Pair living plant buffers with passive water movement and weather awareness."
+cross_references:
+  - "chapters/ch-05-poison-in-the-creek-and-reef-restoration.md"
+  - "chapters/ch-07-the-valley-syndicate.md"
+tags: [architects-contingency, book-2, chapter-06, pioneer-roots, hydrocap-01, drone-th-02, crystal-bell]
+---
+
+Book III: The Living Archive & The Blitz (Chapters 7–9)
+---
+title: "The Architect's Contingency™ — Book III, Chapter 07: The Valley Syndicate"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book III: The Living Archive & The Blitz"
+act: "Act I"
+chapter_number: 7
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Distributed ledger & updated material/place/people inventory"
+  - "Legacy infrastructure bridge without post-apocalyptic framing"
+core_lesson: "Keep practical knowledge and material inventories open and traceable."
+cross_references:
+  - "chapters/ch-06-pioneer-roots-and-canopy-capillaries.md"
+  - "chapters/ch-08-floating-spark-x-and-ant-umbrella-brigades.md"
+tags: [architects-contingency, book-3, chapter-07, valley-syndicate, distributed-ledger, material-inventory, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book III, Chapter 08: Floating Spark X™ & Ant-Umbrella Brigades"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book III: The Living Archive & The Blitz"
+act: "Act II"
+chapter_number: 8
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Spark-X-Float-03 (v2.0) landslide/marine flotation & rig bracing"
+  - "AntRaft-004 (v1.2) chassis umbrellas & wildlife quiet mode"
+core_lesson: "Coordinate timing, buoyant stability, and wildlife quiet mode during emergencies."
+cross_references:
+  - "chapters/ch-07-the-valley-syndicate.md"
+  - "chapters/ch-09-the-over-engineered-trap-candy-street-care-and-forge-play.md"
+tags: [architects-contingency, book-3, chapter-08, floating-spark-x, spark-x-float-03, antraft-004, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book III, Chapter 09: The Over-Engineered Trap, Candy Street Care & Forge Play"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book III: The Living Archive & The Blitz"
+act: "Act III"
+chapter_number: 9
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Retiring ASM-LCH-01 & CandySt-Neonatal-01 (v1.0) quiet care support"
+  - "Light Bloom™ naptime dragons & dung beetle"
+core_lesson: "Replace grit-prone complexity with simple mechanics and calm care."
+cross_references:
+  - "chapters/ch-08-floating-spark-x-and-ant-umbrella-brigades.md"
+  - "chapters/ch-10-the-whisper-network-and-nine-day-blitz.md"
+tags: [architects-contingency, book-3, chapter-09, candy-street-care, retire-asm-lch-01, light-bloom, crystal-bell]
+---
+
+Book IV: Momentum Unbroken (Chapters 10–12)
+---
+title: "The Architect's Contingency™ — Book IV, Chapter 10: The Whisper Network & Nine-Day Blitz"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book IV: Momentum Unbroken"
+act: "Act I"
+chapter_number: 10
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Bramble-01 & Sprocket-02 (v1.0) in M.A.D. W.E.A.R.™"
+  - "Tesla/Aurelius Light Bloom™ & 9-day blitz before Fleet-003 (v1.1)"
+core_lesson: "Test baseline builds in real terrain before printing heavy chassis upgrades."
+cross_references:
+  - "chapters/ch-09-the-over-engineered-trap-candy-street-care-and-forge-play.md"
+  - "chapters/ch-11-stepping-out-with-spark-x.md"
+tags: [architects-contingency, book-4, chapter-10, whisper-network, nine-day-blitz, bramble-01, sprocket-02, fleet-003, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book IV, Chapter 11: Stepping Out With Spark X™"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book IV: Momentum Unbroken"
+act: "Act II"
+chapter_number: 11
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "Spark-X-01 (v1.0) & Spark-X-02 (v1.1)"
+  - "Rolling multi-node buildout waves from The Forge"
+core_lesson: "Honor each person's real strengths, seek fresh angles, and keep humans in the loop."
+cross_references:
+  - "chapters/ch-10-the-whisper-network-and-nine-day-blitz.md"
+  - "chapters/ch-12-grounded-under-the-oaks.md"
+tags: [architects-contingency, book-4, chapter-11, stepping-out-spark-x, spark-x-01, spark-x-02, human-in-the-loop, crystal-bell]
+---
+
+---
+title: "The Architect's Contingency™ — Book IV, Chapter 12: Grounded Under the Oaks"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book IV: Momentum Unbroken"
+act: "Act III"
+chapter_number: 12
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "30–40 bot to 500k Fleet_OS™ & heavy-haul scaling + 50-year planned longevity"
+  - "Oak Grove lunar-to-Earth grounding"
+core_lesson: "Practice self-forgiveness, trust your knowing, build for 50-year longevity, and stay grounded on Earth."
+cross_references:
+  - "chapters/ch-11-stepping-out-with-spark-x.md"
+  - "chapters/ch-01-friction-on-the-divide.md"
+tags: [architects-contingency, book-4, chapter-12, grounded-under-the-oaks, fleet-os, fifty-year-longevity, crystal-bell]
+---
+
+Cross-Reference & Repository Tags:
+#MADWorks #MotivationAndDirectionWorks #ArchitectsContingency #FourBookBoxSet #YAMLFrontmatter #ChaptersOneToTwelve #CrystalBell
+---
+title: "The Architect's Contingency™: Narrative Scene for Chapter 6 ('Pioneer Roots & Canopy Capillaries')"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [architects-contingency, chapter-6-scene, pioneer-roots, canopy-capillaries, living-moringa-wall, copper-pyramids, hydrocap-01, drone-th-02, crystal-bell]
+---
+
+Chapter 6 (Book II, Act III) — Pioneer Roots & Canopy Capillaries: Living Walls & Quiet Flow (...)
+> "Let living leaves buffer the sun, let capillary action carry water where it's needed without wasted force, and read temperature and humidity before changing a thing (...)."
+> — The Architect’s Contingency™, Book II Field Notes (...)
+> 
+Scene Walk-Through: Shade Along the Wall, Steady Capillary Pull & Sky Readings
+Midday warmth pressed against the south edge of the growing zone, where a living wall of moringa and culinary herbs broke harsh glare into dappled green shade and cool leaf transpiration (...). Near the beds, geometric copper pyramids stood cleanly along the border while HydroCap-01 (v1.0) fed moisture through hydroball capillary lines—drawing water steadily along the root zone without flooding a single pocket or wasting a drop (...).
+Overhead, Drone-TH-02 (v1.2) moved in calm, measured passes above the canopy, logging temperature and humidity shifts across sun-warmed foliage and shaded pockets (...). Every reading matched what the plants showed in plain sight: living buffers, gentle passive flow, and clear environmental awareness working together instead of fighting the weather (...).
+Cross-Reference & Repository Tags:
+#MADWorks #MotivationAndDirectionWorks #ArchitectsContingency #Chapter6 #PioneerRoots #HydroCap01 #DroneTH02 #CrystalBell
+---
+title: "The Architect's Contingency™: Narrative Scene for Chapter 7 ('The Valley Syndicate')"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [architects-contingency, chapter-7-scene, valley-syndicate, distributed-ledger, material-inventory, regional-resilience, crystal-bell]
+---
+
+Chapter 7 (Book III, Act I) — The Valley Syndicate: Open Ledgers & Shared Ground (...)
+> "Keep practical knowledge and material records clear, shared, and traceable across hands so a whole valley can work together without hoarding answers behind closed doors (...)."
+> — The Architect’s Contingency™, Book III Field Notes (...)
+> 
+Scene Walk-Through: Comparing Notes Across the Valley Floor
+Along the valley floor, work only moves smoothly when people know what materials are actually on hand, which sites need attention, and who holds which piece of practical know-how (...). Instead of treating every neighborhood or workshop like an isolated island—or leaning on dramatic collapse stories—the ledger tracks real places, real parts, and real people with plain, honest entries (...).
+When a borrow request or material check comes through, nobody has to guess or dig through scattered scraps. One entry links what was used, where it went, and what remains on the rack so shared tools stay accounted for and trust stays intact across the whole network (...).
+Cross-Reference & Repository Tags:
+#MADWorks #MotivationAndDirectionWorks #ArchitectsContingency #Chapter7 #ValleySyndicate #DistributedLedger #MaterialInventory #CrystalBell
