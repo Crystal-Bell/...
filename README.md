@@ -1,4 +1,41 @@
 ---
+title: "The Architect's Contingency™ 4-Book Box Set: Complete Chapter-by-Chapter Index (Chapters 1–12)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [architects-contingency, 4-book-box-set, chapter-index, book-1, book-2, book-3, book-4, crystal-bell]
+---
+
+The Architect's Contingency™ — 4-Book Box Set Chapter Index (...)
+All 12 chapters across Books I–IV are organized below by book, act, core lesson, and build model for quick reference across your Crystal-Bell repositories (...).
+Book I: Friction & The Gate (Chapters 1–3)
+| Ch. | Act | Title | Core Lesson | Build Model & Systems Anchor |
+|---|---|---|---|---|
+| Ch. 1 | Book I, Act I | Friction on the Divide | Read friction and protect warmth, air, and water before pushing harder. | Jade Avenue Forge loop: micro-hydro wheel, wet scrubber, copper–terracotta–charcoal water stage, and Clyde's free-roaming bay. |
+| Ch. 2 | Book I, Act II | The Seven-Day Gate | Verify physical performance before adopting copies or shortcuts. | 7–10 Day Prototype Gate testing cold-snap durability (MAT-RES-00 unverified resin failure vs. verified parts). |
+| Ch. 3 | Book I, Act III | The Ellipsis Ledger | Scale clean small-scale geometry instead of reinventing every size. | Toys Building Toys snap-fit scaling to MAT-TPU-02 strips under sleeve/glove task lights + ... ledger stamp. |
+Book II: Watershed & Roots (Chapters 4–6)
+| Ch. | Act | Title | Core Lesson | Build Model & Systems Anchor |
+|---|---|---|---|---|
+| Ch. 4 | Book II, Act I | The North Pass Bundle | Keep shared records resilient without depending on live outer links. | Offline git bundle & Raspberry Pi node sync across ridge terrain using path-lighting hem glow. |
+| Ch. 5 | Book II, Act II | Poison in the Creek & Reef Restoration | Remediate real damage while leaving healthy habitats undisturbed. | RP-MSR-005 (v1.3) freshwater/marine cleanup paired with artificial reef placement where debris is removed. |
+| Ch. 6 | Book II, Act III | Pioneer Roots & Canopy Capillaries | Pair living plant buffers with passive water movement and weather awareness. | Living moringa/herb wall, copper pyramids, HydroCap-01 (v1.0) hydroball capillary aqueduct, and Drone-TH-02 (v1.2). |
+Book III: The Living Archive & The Blitz (Chapters 7–9)
+| Ch. | Act | Title | Core Lesson | Build Model & Systems Anchor |
+|---|---|---|---|---|
+| Ch. 7 | Book III, Act I | The Valley Syndicate | Keep practical knowledge and material inventories open and traceable. | Distributed ledger & updated material/place/people inventory bridging legacy infrastructure without post-apocalyptic framing. |
+| Ch. 8 | Book III, Act II | Floating Spark X™ & Ant-Umbrella Brigades | Coordinate timing, buoyant stability, and wildlife quiet mode during emergencies. | Spark-X-Float-03 (v2.0) landslide/marine flotation & rig bracing + AntRaft-004 (v1.2) chassis umbrellas. |
+| Ch. 9 | Book III, Act III | The Over-Engineered Trap, Candy Street Care & Forge Play | Replace grit-prone complexity with simple mechanics and calm care. | Retiring ASM-LCH-01, CandySt-Neonatal-01 (v1.0) quiet care support, and Light Bloom™ naptime dragons & dung beetle. |
+Book IV: Momentum Unbroken (Chapters 10–12)
+| Ch. | Act | Title | Core Lesson | Build Model & Systems Anchor |
+|---|---|---|---|---|
+| Ch. 10 | Book IV, Act I | The Whisper Network & Nine-Day Blitz | Test baseline builds in real terrain before printing heavy chassis upgrades. | Bramble-01 & Sprocket-02 (v1.0) in M.A.D. W.E.A.R.™, Tesla/Aurelius Light Bloom™, and 9-day blitz before Fleet-003 (v1.1). |
+| Ch. 11 | Book IV, Act II | Stepping Out With Spark X™ | Honor each person's real strengths, seek fresh angles, and keep humans in the loop. | Spark-X-01 (v1.0) & Spark-X-02 (v1.1) rolling multi-node buildout waves from The Forge. |
+| Ch. 12 | Book IV, Act III | Grounded Under the Oaks | Practice self-forgiveness, trust your knowing, build for 50-year longevity, and stay grounded on Earth. | 18-wheeler / 30–40 bot to 500k Fleet_OS™ & heavy-haul scaling, 50-year planned longevity, and Oak Grove lunar-to-Earth daydream. |
+Cross-Reference & Repository Tags:
+#MADWorks #MotivationAndDirectionWorks #ArchitectsContingency #FourBookBoxSet #ChapterIndex #BookOne #BookTwo #BookThree #BookFour #CrystalBell
+---
 title: "Appendices I–III: Technical, Philosophical & Governance Specifications of M.A.D. Works™"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
 date: "2026-11-25"
