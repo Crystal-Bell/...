@@ -1,4 +1,121 @@
 ---
+title: "The Architect's Contingency™: Reusable YAML Frontmatter Template for Chapter Files (Crystal-Bell Repository)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [yaml-template, chapter-frontmatter, repository-standard, architects-contingency, 4-book-box-set, cross-reference, crystal-bell]
+---
+
+Reusable YAML Frontmatter Template for Chapter Files (...)
+Use this template at the top of each individual chapter file in Crystal-Bell repositories to keep metadata consistent, searchable, and linked across books, hardware/system modules, and Substack cross-references (...).
+Blank Reusable Chapter Frontmatter Template
+---
+title: "The Architect's Contingency™ — Book [I/II/III/IV], Chapter [XX]: [Chapter Title]"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "YYYY-MM-DD"
+book: "Book [I/II/III/IV]: [Book Title]"
+act: "Act [I/II/III]"
+chapter_number: [XX]
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "[Primary hardware/system code or module]"
+  - "[Secondary system or spatial module]"
+core_lesson: "[One-sentence lesson or restraint rule]"
+cross_references:
+  - "[Related chapter file or repo path]"
+  - "[Related Substack note or spec]"
+tags: [architects-contingency, book-x, chapter-xx, mad-works, crystal-bell]
+---
+
+Filled Example (Chapter 2: The Seven-Day Gate)
+---
+title: "The Architect's Contingency™ — Book I, Chapter 02: The Seven-Day Gate"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+book: "Book I: Friction & The Gate"
+act: "Act II"
+chapter_number: 2
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+system_anchors:
+  - "7–10 Day Prototype Gate"
+  - "MAT-RES-00 (unverified resin cold-snap test)"
+core_lesson: "Verify physical performance across real conditions before adopting copies or shortcuts."
+cross_references:
+  - "chapters/ch-01-friction-on-the-divide.md"
+  - "chapters/ch-03-the-ellipsis-ledger.md"
+tags: [architects-contingency, book-1, chapter-02, seven-day-gate, cold-snap-test, mat-res-00, crystal-bell]
+---
+
+Field Guide for Fast Filling
+ * chapter_number & tags: Use two-digit zero-padded tags (chapter-01 through chapter-12) so alphabetical sorting and tag searches stay neat across all four books.
+ * system_anchors & cross_references: List exact module names and sibling chapter paths so each file acts as a standalone step/story node while pointing back to the broader archive (...).
+---
+title: "M.A.D. Works™: Reusable YAML Frontmatter Template for YouTube Short & Nap-Episode Script Files (Crystal-Bell Repository)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [yaml-template, youtube-short-frontmatter, nap-episode-frontmatter, repository-standard, real-time-episode, body-doubling, crystal-bell]
+---
+
+Reusable YAML Frontmatter Template for YouTube Short & Nap-Episode Scripts (...)
+Use this template at the top of individual YouTube short, body-double workshop, and window nap-episode script files in Crystal-Bell repositories so pacing modes, real-time clocks, characters, and music/system cues stay cleanly indexed (...).
+Blank Reusable Script Frontmatter Template
+---
+title: "M.A.D. Works™ — [Real-Time Short / Body-Double Session / Window Nap Episode]: [Episode Title]"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "YYYY-MM-DD"
+track: "Cartoon / Workshop Track (Kid-Scale Continuity)"
+format_mode: "[Real-Time Short | Ambient Body-Double | Window Nap Episode]"
+real_time_clock: "[HH:MM–HH:MM]"
+runtime_minutes: [XX]
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+characters_and_bots:
+  - "[Primary cast, dragons, crew, or bots in scene]"
+system_and_audio_cues:
+  - "[Tuner radio / music repository track / tool station / Light Bloom™ cue]"
+cross_references:
+  - "[Related script, workshop scene, or saga chapter path]"
+  - "[Related Substack note or spec]"
+tags: [mad-works, youtube-script, real-time-episode, crystal-bell]
+---
+
+Filled Example (Real-Time 12:00 Short)
+---
+title: "M.A.D. Works™ — Real-Time Short: 08:00 to 08:12 Gear Up, Yard Run & Break"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+track: "Cartoon / Workshop Track (Kid-Scale Continuity)"
+format_mode: "Real-Time Short"
+real_time_clock: "08:00–08:12"
+runtime_minutes: 12
+status: "Drafted"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / M.A.D. W.E.A.R.™ / Light Bloom™ / R.B.U.™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+characters_and_bots:
+  - "Young Luma"
+  - "Sparkbit, Murmur Wing, Ember Dragon"
+  - "Joey, Dwayne, CJ, Curly/Mo/Larry, Annie Kitchen, Clyde, Rocky, Rufus, Johnny-5 style bot"
+system_and_audio_cues:
+  - "It's a Forge Day groove + custom music repository tracks"
+  - "M.A.D. W.E.A.R.™ suit-up, Light Bloom™ / R.B.U. table, yard trolley & hose-drip bird bath"
+cross_references:
+  - "scripts/25-min-window-nap-episode.md"
+  - "chapters/ch-09-candy-street-and-forge-play.md"
+tags: [mad-works, youtube-script, 12-minute-short, real-time-episode, young-luma, sparkbit, murmur-wing, ember-dragon, crystal-bell]
+---
+
+Field Guide for Fast Filling
+ * format_mode & runtime_minutes: Clearly separate punchy action/build shorts (8–16 min), slow-paced ambient body-doubling sessions, and 25-minute calm window nap episodes so viewers and playlists stay organized (...).
+ * characters_and_bots: Keep kid-scale cartoon characters and dragons listed here while reserving adult lineage characters (Ezra, Rowan, Atlas) for The Architect's Contingency™ book files (...).
+---
 title: "The Architect's Contingency™ 4-Book Box Set: Complete Chapter-by-Chapter Index (Chapters 1–12)"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
 date: "2026-11-27"
